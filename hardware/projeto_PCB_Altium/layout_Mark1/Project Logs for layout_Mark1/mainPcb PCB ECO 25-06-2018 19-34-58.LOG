@@ -1,0 +1,14 @@
+Added Component: Designator=1(PCBComponent_1)
+Added Component: Designator=2(PCBComponent_1)
+Added Component: Designator=3(PCBComponent_1)
+Added Component: Designator=4(PCBComponent_1)
+Added Component: Designator=5(PCBComponent_1)
+Added Component: Designator=6(PCBComponent_1)
+Added Component: Designator=7(PCBComponent_1)
+Added Component: Designator=8(PCBComponent_1)
+Added Member To Class: ClassName=io Member=Component 3 Pb
+Added Member To Class: ClassName=io Member=Component 4 Pb
+Added Member To Class: ClassName=io Member=Component 5 Pb
+Added Member To Class: ClassName=io Member=Component 6 Pb
+Added Member To Class: ClassName=io Member=Component 7 Pb
+Added Member To Class: ClassName=io Member=Component 8 Pb

@@ -1,0 +1,65 @@
+Added Component: Designator=*(PCBComponent_1)
+Added Component: Designator=*(PCBComponent_1)
+Added Component: Designator=P1(HDR1X10)
+Added Component: Designator=P2(HDR1X8)
+Added Component: Designator=P3(HDR1X6)
+Added Component: Designator=P4(HDR1X8)
+Added Pin To Net: NetName=+3V3 Pin=P4-4
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=P4-2
+Added Pin To Net: NetName=+5V Pin=P4-5
+Added Net: Name=+5V
+Added Pin To Net: NetName=AD0 Pin=P3-1
+Added Net: Name=AD0
+Added Pin To Net: NetName=AD1 Pin=P3-2
+Added Net: Name=AD1
+Added Pin To Net: NetName=AD2 Pin=P3-3
+Added Net: Name=AD2
+Added Pin To Net: NetName=AD3 Pin=P3-4
+Added Net: Name=AD3
+Added Pin To Net: NetName=AD4/SDA Pin=P1-9
+Added Pin To Net: NetName=AD4/SDA Pin=P3-5
+Added Net: Name=AD4/SDA
+Added Pin To Net: NetName=AD5/SCL Pin=P1-10
+Added Pin To Net: NetName=AD5/SCL Pin=P3-6
+Added Net: Name=AD5/SCL
+Added Pin To Net: NetName=AREF Pin=P1-8
+Added Net: Name=AREF
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-7
+Added Net: Name=GND
+Added Pin To Net: NetName=IO2 Pin=P2-3
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO3 Pin=P2-4
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=P2-5
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO5 Pin=P2-6
+Added Net: Name=IO5
+Added Pin To Net: NetName=IO6 Pin=P2-7
+Added Net: Name=IO6
+Added Pin To Net: NetName=IO7 Pin=P2-8
+Added Net: Name=IO7
+Added Pin To Net: NetName=IO8 Pin=P1-1
+Added Net: Name=IO8
+Added Pin To Net: NetName=IO9 Pin=P1-2
+Added Net: Name=IO9
+Added Pin To Net: NetName=MISO/IO12 Pin=P1-5
+Added Net: Name=MISO/IO12
+Added Pin To Net: NetName=MOSI/IO11 Pin=P1-4
+Added Net: Name=MOSI/IO11
+Added Pin To Net: NetName=RESET Pin=P4-3
+Added Net: Name=RESET
+Added Pin To Net: NetName=RX/IO0 Pin=P2-1
+Added Net: Name=RX/IO0
+Added Pin To Net: NetName=SCK/IO13 Pin=P1-6
+Added Net: Name=SCK/IO13
+Added Pin To Net: NetName=SS/IO10 Pin=P1-3
+Added Net: Name=SS/IO10
+Added Pin To Net: NetName=TX/IO1 Pin=P2-2
+Added Net: Name=TX/IO1
+Added Pin To Net: NetName=VIN Pin=P4-8
+Added Net: Name=VIN
+Added Class: Name=io
+Added Room: Name=io

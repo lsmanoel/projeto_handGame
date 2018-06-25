@@ -1,0 +1,44 @@
+Added Component: Designator=1(PCBComponent_1)
+Added Component: Designator=2(PCBComponent_1)
+Added Component: Designator=P1(HDR1X10)
+Added Component: Designator=P2(HDR1X8)
+Added Component: Designator=P3(HDR1X6)
+Added Component: Designator=P4(HDR1X8)
+Added Pin To Net: NetName=IO8 Pin=P1-1
+Added Pin To Net: NetName=IO9 Pin=P1-2
+Added Pin To Net: NetName=SS/IO10 Pin=P1-3
+Added Pin To Net: NetName=MOSI/IO11 Pin=P1-4
+Added Pin To Net: NetName=MISO/IO12 Pin=P1-5
+Added Pin To Net: NetName=SCK/IO13 Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=AREF Pin=P1-8
+Added Pin To Net: NetName=AD4/SDA Pin=P1-9
+Added Pin To Net: NetName=AD5/SCL Pin=P1-10
+Added Pin To Net: NetName=RX/IO0 Pin=P2-1
+Added Pin To Net: NetName=TX/IO1 Pin=P2-2
+Added Pin To Net: NetName=IO2 Pin=P2-3
+Added Pin To Net: NetName=IO3 Pin=P2-4
+Added Pin To Net: NetName=IO4 Pin=P2-5
+Added Pin To Net: NetName=IO5 Pin=P2-6
+Added Pin To Net: NetName=IO6 Pin=P2-7
+Added Pin To Net: NetName=IO7 Pin=P2-8
+Added Pin To Net: NetName=AD0 Pin=P3-1
+Added Pin To Net: NetName=AD1 Pin=P3-2
+Added Pin To Net: NetName=AD2 Pin=P3-3
+Added Pin To Net: NetName=AD3 Pin=P3-4
+Added Pin To Net: NetName=AD4/SDA Pin=P3-5
+Added Pin To Net: NetName=AD5/SCL Pin=P3-6
+Added Pin To Net: NetName=+5V Pin=P4-2
+Added Pin To Net: NetName=RESET Pin=P4-3
+Added Pin To Net: NetName=+3V3 Pin=P4-4
+Added Pin To Net: NetName=+5V Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-7
+Added Pin To Net: NetName=VIN Pin=P4-8
+Added Member To Class: ClassName=io Member=Component 1 Component_1
+Added Member To Class: ClassName=io Member=Component 2 Component_1
+Added Member To Class: ClassName=io Member=Component P1 Header 10
+Added Member To Class: ClassName=io Member=Component P2 Header 8
+Added Member To Class: ClassName=io Member=Component P3 Header 6
+Added Member To Class: ClassName=io Member=Component P4 Header 8
+Added Room: Name=io
