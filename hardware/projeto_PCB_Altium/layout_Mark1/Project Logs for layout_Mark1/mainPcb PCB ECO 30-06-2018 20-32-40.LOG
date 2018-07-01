@@ -1,0 +1,4 @@
+Added Component: Designator=select(PCBComponent_1)
+Added Component: Designator=start(PCBComponent_1)
+Added Member To Class: ClassName=io Member=Component select Component_1
+Added Member To Class: ClassName=io Member=Component start Component_1

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-24062010-085509";"";
+"REFERENCE";"A-BL200-EA-G06D";"";
+"TraceParts.PartTitle";"Female header, pitch 2.00mm, right-angled, single row, 03 - 25 contacts";"";
+"TraceParts.InstanceId";"10-24062010-0855094X1D5Q6FM7CO4ECAEIFJ4BK0G";"";
+"DESIGN";"Female header, pitch 2.00mm, right-angled, single row, 6 contacts, plating : Gold flash";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:/F_ASSMANN/ASSMANN.010/ASSMANN.010.170/10-24062010-085509";"";
