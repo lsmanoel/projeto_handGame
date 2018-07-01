@@ -54,23 +54,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QSETSOCI
 
 [Document2]
-DocumentPath=..\..\..\..\..\componentes\arduino-uno-shield-altium-master\arduino_shield.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MYWNLBYL
-
-[Document3]
 DocumentPath=..\..\..\..\..\componentes\arduino-uno-shield-altium-master\io.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMNMLRML
 
-[Document4]
+[Document3]
 DocumentPath=tp4056_shield.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTSQAXSC
 
-[Document5]
+[Document4]
 DocumentPath=tp4056_shield_sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WTRUBPAN
 
-[Document6]
+[Document5]
 DocumentPath=pushButton_12mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYSHRXNO
 
-[Document7]
+[Document6]
 DocumentPath=pushButton.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,7 +138,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPTCESSP
 
-[Document8]
+[Document7]
 DocumentPath=mainPcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,7 +155,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLDUSJST
 
-[Document9]
+[Document8]
 DocumentPath=capEL_1uF_50v.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -189,7 +172,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIUUWCUI
 
-[Document10]
+[Document9]
 DocumentPath=potDir_2eixos_v1_sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +189,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GOKJIJBA
 
-[Document11]
+[Document10]
 DocumentPath=sot223_plasticPackage.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,7 +206,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXKOYEPB
 
-[Document12]
+[Document11]
 DocumentPath=AMS_1117_sch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -240,7 +223,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKUXHPAR
 
-[Document13]
+[Document12]
 DocumentPath=socket_Arduino_CUTPIN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -257,7 +240,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUVUEYJN
 
-[Document14]
+[Document13]
 DocumentPath=arduino_shield_stardard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -274,7 +257,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NYAVBMKC
 
-[Document15]
+[Document14]
 DocumentPath=pushButton_6mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,6 +273,108 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSJDPAAX
+
+[Document15]
+DocumentPath=bluetoothSerial_header.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ISYEKUBT
+
+[Document16]
+DocumentPath=bluetooth_serial.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NWNRXNGR
+
+[Document17]
+DocumentPath=buzzer.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXEFMCSR
+
+[Document18]
+DocumentPath=buzzer_sch.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ETQEHEKO
+
+[Document19]
+DocumentPath=LCD_and_SDCARD_shield.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IGCSPVTH
+
+[Document20]
+DocumentPath=lcd_TFT_and_TOUCH.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GDBNDYVH
 
 [Configuration1]
 Name=Default Configuration

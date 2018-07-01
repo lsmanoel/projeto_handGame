@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=arduino_socket_1 Old Footprint=PCBComponent_1 New Footprint=arduino_due_cutPin
+Change Component Designator: OldDesignator=analog_1 NewDesignator=analog_2
+Change Component Designator: OldDesignator=analog_2 NewDesignator=analog_1
+Added Component: Designator=bt1(bluetoothSerial_header)
+Added Member To Class: ClassName=io Member=Component 1 Pb
+Added Member To Class: ClassName=io Member=Component 2 Pb
+Added Member To Class: ClassName=io Member=Component arduino_socket_1 Component_1
+Added Member To Class: ClassName=io Member=Component bt1 bluetoothSerial_1
+Added Room: Name=io
