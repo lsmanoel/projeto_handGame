@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=IO23 Pin=select-1
+Removed Pin From Net: NetName=IO23 Pin=select-2
+Added Pin To Net: NetName=IO24 Pin=select-1
+Added Pin To Net: NetName=IO24 Pin=select-2
+Added Room: Name=io

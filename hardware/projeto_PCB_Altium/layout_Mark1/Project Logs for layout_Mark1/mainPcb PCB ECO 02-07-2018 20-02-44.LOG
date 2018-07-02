@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=IO26 Pin=buzzer_1-2
+Added Pin To Net: NetName=IO14 Pin=buzzer_1-2
+Added Room: Name=io
