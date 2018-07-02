@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=arduino_socket_1 Old Footprint=Model Name New Footprint=arduino_due_cutPin
+Change Component Footprint: Designator=1 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=2 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=3 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=4 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=5 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=6 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=7 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=8 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=analog_1 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=analog_2 Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=select Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Footprint: Designator=start Old Footprint=Model Name New Footprint=PCBComponent_1
+Change Component Comment: Designator=1 Old Comment=Component_1 New Comment=Pb
+Change Component Comment: Designator=2 Old Comment=Component_1 New Comment=Pb
+Change Component Comment: Designator=3 Old Comment=Component_1 New Comment=Pb
+Change Component Comment: Designator=4 Old Comment=Component_1 New Comment=Pb
+Change Component Comment: Designator=5 Old Comment=Component_1 New Comment=Pb
+Change Component Comment: Designator=6 Old Comment=Component_1 New Comment=Pb
+Change Component Comment: Designator=7 Old Comment=Component_1 New Comment=Pb
+Change Component Comment: Designator=8 Old Comment=Component_1 New Comment=Pb

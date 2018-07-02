@@ -1,0 +1,40 @@
+A0 - joystick-1_x
+A1 - joystick-1_y
+A2 - joystick-1_button
+A3 - buzzer
+A4 - start_button
+A5 - button_1
+
+0(RX) - TX(bluetooth)
+1(TX) - RX(bluetooth)
+2(PWM) - D/C(display)
+3(PWM) - button_2
+4(PWM) - button_3
+5(PWM) - button_4
+6(PWM) - button_5
+7(PWM) - button_6
+8(PWM) - button_7
+9(PWM) - button_8
+
+10(PWM) - CE(display) 
+11(MOSI) - MOSI(display)
+12(MISO) - MISO(display)
+13(SCK) - SCK(display)
+
+
+50 - select_button
+49 - Reset(display)
+48 - CLK_T (touch)
+47 - CS_T (touch)
+46(pwm) - DIN_T (touch)
+45(pwm) - DO_T (touch)
+44(pwm) - IRQ_T (touch)
+
+22 - CS (sdcard)
+23 - MISO (sdcard)
+24 - MOSI (sdcard)
+25 - SCK (sdcard)
+
+A12 - joystick-2_x
+A13 - joystick-2_y
+A14 - joystick-2_button
