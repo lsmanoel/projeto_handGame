@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=IO24 Pin=analog_1-11
+Removed Pin From Net: NetName=GND Pin=analog_1-12
+Removed Pin From Net: NetName=IO25 Pin=analog_2-11
+Removed Pin From Net: NetName=GND Pin=analog_2-12
+Added Component: Designator=arduino_socket_1(arduino_due_cutPin)
+Added Pin To Net: NetName=RX/IO0 Pin=arduino_socket_1-0
+Added Pin To Net: NetName=TX/IO1 Pin=arduino_socket_1-1
+Added Pin To Net: NetName=+3V3 Pin=arduino_socket_1-3.3V
+Added Pin To Net: NetName=+5V Pin=arduino_socket_1-5V
+Added Pin To Net: NetName=IO8 Pin=arduino_socket_1-8
+Added Pin To Net: NetName=IO9 Pin=arduino_socket_1-9
+Added Pin To Net: NetName=SS/IO10 Pin=arduino_socket_1-10
+Added Pin To Net: NetName=MOSI/IO11 Pin=arduino_socket_1-11
+Added Pin To Net: NetName=MISO/IO12 Pin=arduino_socket_1-12
+Added Pin To Net: NetName=SCK/IO13 Pin=arduino_socket_1-13
+Added Pin To Net: NetName=IO14 Pin=arduino_socket_1-14
+Added Pin To Net: NetName=IO15 Pin=arduino_socket_1-15
+Added Pin To Net: NetName=IO16 Pin=arduino_socket_1-16
+Added Pin To Net: NetName=IO17 Pin=arduino_socket_1-17
+Added Pin To Net: NetName=IO18 Pin=arduino_socket_1-18
+Added Pin To Net: NetName=IO19 Pin=arduino_socket_1-19
+Added Pin To Net: NetName=IO20 Pin=arduino_socket_1-20
+Added Pin To Net: NetName=IO21 Pin=arduino_socket_1-21
+Added Pin To Net: NetName=IO22 Pin=arduino_socket_1-22
+Added Pin To Net: NetName=IO23 Pin=arduino_socket_1-23
+Added Pin To Net: NetName=IO24 Pin=arduino_socket_1-24
+Added Pin To Net: NetName=IO25 Pin=arduino_socket_1-25
+Added Pin To Net: NetName=IO26 Pin=arduino_socket_1-26
+Added Pin To Net: NetName=IO27 Pin=arduino_socket_1-27
+Added Pin To Net: NetName=IO28 Pin=arduino_socket_1-28
+Added Pin To Net: NetName=IO29 Pin=arduino_socket_1-29
+Added Pin To Net: NetName=IO46 Pin=arduino_socket_1-46
+Added Pin To Net: NetName=IO47 Pin=arduino_socket_1-47
+Added Pin To Net: NetName=IO48 Pin=arduino_socket_1-48
+Added Pin To Net: NetName=IO49 Pin=arduino_socket_1-49
+Added Pin To Net: NetName=IO50 Pin=arduino_socket_1-50
+Added Pin To Net: NetName=IO51 Pin=arduino_socket_1-51
+Added Pin To Net: NetName=IO52 Pin=arduino_socket_1-52
+Added Pin To Net: NetName=IO53 Pin=arduino_socket_1-53
+Added Pin To Net: NetName=AD0 Pin=arduino_socket_1-A0
+Added Pin To Net: NetName=AD1 Pin=arduino_socket_1-A1
+Added Pin To Net: NetName=AD2 Pin=arduino_socket_1-A2
+Added Pin To Net: NetName=AD3 Pin=arduino_socket_1-A3
+Added Pin To Net: NetName=AD12 Pin=arduino_socket_1-A12
+Added Pin To Net: NetName=AD13 Pin=arduino_socket_1-A13
+Added Pin To Net: NetName=AD14 Pin=arduino_socket_1-A14
+Added Pin To Net: NetName=AD15 Pin=arduino_socket_1-A15
+Added Pin To Net: NetName=GND Pin=arduino_socket_1-GND1
+Added Pin To Net: NetName=GND Pin=arduino_socket_1-GND2
+Added Pin To Net: NetName=GND Pin=arduino_socket_1-GND3
+Added Pin To Net: NetName=GND Pin=arduino_socket_1-GND4
+Added Pin To Net: NetName=RESET Pin=arduino_socket_1-RESET
+Added Pin To Net: NetName=VIN Pin=arduino_socket_1-Vin
+Added Member To Class: ClassName=io Member=Component 2 Pb
+Added Member To Class: ClassName=io Member=Component arduino_socket_1 Component_1
+Added Room: Name=io
