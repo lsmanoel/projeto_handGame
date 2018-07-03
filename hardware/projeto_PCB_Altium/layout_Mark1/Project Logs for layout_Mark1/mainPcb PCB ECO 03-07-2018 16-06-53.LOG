@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=VCC Pin=analog_1-6
+Added Pin To Net: NetName=VCC Pin=analog_1-9
+Added Pin To Net: NetName=VCC Pin=analog_2-6
+Added Pin To Net: NetName=VCC Pin=analog_2-9
+Added Pin To Net: NetName=VCC Pin=arduino_socket_1-3.3V
+Added Pin To Net: NetName=VCC Pin=arduino_socket_1-5V
+Added Pin To Net: NetName=VCC Pin=bt1-VCC_BT
+Added Pin To Net: NetName=VCC Pin=lcd_1-LED
+Added Pin To Net: NetName=VCC Pin=lcd_1-VCC
+Added Pin To Net: NetName=VCC Pin=R_RESET-2
+Change Net Name : Old Net Name=VCC New Net Name=+3V3
