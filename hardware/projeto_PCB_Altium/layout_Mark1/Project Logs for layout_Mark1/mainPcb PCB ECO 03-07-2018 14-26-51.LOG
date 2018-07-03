@@ -1,0 +1,8 @@
+Added Component: Designator=C1(capaEletrolitic_100uF_25v_smd)
+Added Component: Designator=C2(capaEletrolitic_100uF_25v_smd)
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=Netasm1117_3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Member To Class: ClassName=io Member=Component C1 Cap2
+Added Member To Class: ClassName=io Member=Component C2 Cap2

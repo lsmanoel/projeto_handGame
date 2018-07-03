@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=IO51 Pin=2-1
+Removed Pin From Net: NetName=IO51 Pin=2-2
+Removed Pin From Net: NetName=IO10 Pin=arduino_socket_1-10
+Removed Pin From Net: NetName=IO11 Pin=arduino_socket_1-11
+Removed Pin From Net: NetName=IO12 Pin=arduino_socket_1-12
+Removed Pin From Net: NetName=IO13 Pin=arduino_socket_1-13
+Removed Pin From Net: NetName=IO24 Pin=select-1
+Removed Pin From Net: NetName=IO24 Pin=select-2
+Added Pin To Net: NetName=IO49 Pin=2-1
+Added Pin To Net: NetName=IO49 Pin=2-2
+Added Pin To Net: NetName=SS/IO10 Pin=arduino_socket_1-10
+Added Pin To Net: NetName=MOSI/IO11 Pin=arduino_socket_1-11
+Added Pin To Net: NetName=MISO/IO12 Pin=arduino_socket_1-12
+Added Pin To Net: NetName=SCK/IO13 Pin=arduino_socket_1-13
+Added Pin To Net: NetName=IO23 Pin=select-1
+Added Pin To Net: NetName=IO23 Pin=select-2
+Added Room: Name=io

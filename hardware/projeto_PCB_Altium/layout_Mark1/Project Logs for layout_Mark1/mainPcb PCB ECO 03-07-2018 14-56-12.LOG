@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Netasm1117_3 Pin=power_1-4
+Added Pin To Net: NetName=GND Pin=switch_ON_OFF-1
+Added Pin To Net: NetName=Netasm1117_3 Pin=switch_ON_OFF-2
+Added Pin To Net: NetName=Netpower_1_4 Pin=power_1-4
+Added Pin To Net: NetName=Netpower_1_4 Pin=switch_ON_OFF-3
+Added Net: Name=Netpower_1_4

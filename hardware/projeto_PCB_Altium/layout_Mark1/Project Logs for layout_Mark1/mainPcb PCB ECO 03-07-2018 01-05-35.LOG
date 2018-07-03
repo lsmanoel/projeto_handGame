@@ -1,0 +1,73 @@
+Added Component: Designator=Cpb1(C0805)
+Added Component: Designator=Cpb2(C0805)
+Added Component: Designator=Cpb3(C0805)
+Added Component: Designator=Cpb5(C0805)
+Added Component: Designator=Cpb7(C0805)
+Added Component: Designator=Cstart(C0805)
+Added Component: Designator=Rpb1_1(J1-0603)
+Added Component: Designator=Rpb1_2(J1-0603)
+Added Component: Designator=Rpb2_1(J1-0603)
+Added Component: Designator=Rpb2_2(J1-0603)
+Added Component: Designator=Rpb3_1(J1-0603)
+Added Component: Designator=Rpb3_2(J1-0603)
+Added Component: Designator=Rpb5_1(J1-0603)
+Added Component: Designator=Rpb5_2(J1-0603)
+Added Component: Designator=Rpb7_1(J1-0603)
+Added Component: Designator=Rpb7_2(J1-0603)
+Added Component: Designator=Rstart_1(J1-0603)
+Added Component: Designator=Rstart_2(J1-0603)
+Added Pin To Net: NetName=IO53 Pin=Cpb1-1
+Added Pin To Net: NetName=GND Pin=Cpb1-2
+Added Pin To Net: NetName=IO51 Pin=Cpb2-1
+Added Pin To Net: NetName=GND Pin=Cpb2-2
+Added Pin To Net: NetName=IO52 Pin=Cpb3-1
+Added Pin To Net: NetName=GND Pin=Cpb3-2
+Added Pin To Net: NetName=IO19 Pin=Cpb5-1
+Added Pin To Net: NetName=GND Pin=Cpb5-2
+Added Pin To Net: NetName=IO20 Pin=Cpb7-1
+Added Pin To Net: NetName=GND Pin=Cpb7-2
+Added Pin To Net: NetName=IO22 Pin=Cstart-1
+Added Pin To Net: NetName=GND Pin=Cstart-2
+Added Pin To Net: NetName=IO53 Pin=Rpb1_1-1
+Added Pin To Net: NetName=VCC Pin=Rpb1_1-2
+Added Pin To Net: NetName=GND Pin=Rpb1_2-1
+Added Pin To Net: NetName=IO53 Pin=Rpb1_2-2
+Added Pin To Net: NetName=IO51 Pin=Rpb2_1-1
+Added Pin To Net: NetName=VCC Pin=Rpb2_1-2
+Added Pin To Net: NetName=GND Pin=Rpb2_2-1
+Added Pin To Net: NetName=IO51 Pin=Rpb2_2-2
+Added Pin To Net: NetName=IO52 Pin=Rpb3_1-1
+Added Pin To Net: NetName=VCC Pin=Rpb3_1-2
+Added Pin To Net: NetName=GND Pin=Rpb3_2-1
+Added Pin To Net: NetName=IO52 Pin=Rpb3_2-2
+Added Pin To Net: NetName=IO19 Pin=Rpb5_1-1
+Added Pin To Net: NetName=VCC Pin=Rpb5_1-2
+Added Pin To Net: NetName=GND Pin=Rpb5_2-1
+Added Pin To Net: NetName=IO19 Pin=Rpb5_2-2
+Added Pin To Net: NetName=IO20 Pin=Rpb7_1-1
+Added Pin To Net: NetName=VCC Pin=Rpb7_1-2
+Added Pin To Net: NetName=GND Pin=Rpb7_2-1
+Added Pin To Net: NetName=IO20 Pin=Rpb7_2-2
+Added Pin To Net: NetName=IO22 Pin=Rstart_1-1
+Added Pin To Net: NetName=VCC Pin=Rstart_1-2
+Added Pin To Net: NetName=GND Pin=Rstart_2-1
+Added Pin To Net: NetName=IO22 Pin=Rstart_2-2
+Added Member To Class: ClassName=io Member=Component Cpb1 Cap Pol3
+Added Member To Class: ClassName=io Member=Component Cpb2 Cap Pol3
+Added Member To Class: ClassName=io Member=Component Cpb3 Cap Pol3
+Added Member To Class: ClassName=io Member=Component Cpb5 Cap Pol3
+Added Member To Class: ClassName=io Member=Component Cpb7 Cap Pol3
+Added Member To Class: ClassName=io Member=Component Cstart Cap Pol3
+Added Member To Class: ClassName=io Member=Component Rpb1_1 Res3
+Added Member To Class: ClassName=io Member=Component Rpb1_2 Res3
+Added Member To Class: ClassName=io Member=Component Rpb2_1 Res3
+Added Member To Class: ClassName=io Member=Component Rpb2_2 Res3
+Added Member To Class: ClassName=io Member=Component Rpb3_1 Res3
+Added Member To Class: ClassName=io Member=Component Rpb3_2 Res3
+Added Member To Class: ClassName=io Member=Component Rpb5_1 Res3
+Added Member To Class: ClassName=io Member=Component Rpb5_2 Res3
+Added Member To Class: ClassName=io Member=Component Rpb7_1 Res3
+Added Member To Class: ClassName=io Member=Component Rpb7_2 Res3
+Added Member To Class: ClassName=io Member=Component Rstart_1 Res3
+Added Member To Class: ClassName=io Member=Component Rstart_2 Res3
+Added Room: Name=io

@@ -1,0 +1,14 @@
+Added Component: Designator=Cpb8(C0805)
+Added Component: Designator=Rpb8_1(J1-0603)
+Added Component: Designator=Rpb8_2(J1-0603)
+Added Pin To Net: NetName=IO21 Pin=Cpb8-1
+Added Pin To Net: NetName=GND Pin=Cpb8-2
+Added Pin To Net: NetName=IO21 Pin=Rpb8_1-1
+Added Pin To Net: NetName=GND Pin=Rpb8_2-1
+Added Pin To Net: NetName=IO21 Pin=Rpb8_2-2
+Added Pin To Net: NetName=VCC Pin=Rpb8_1-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=io Member=Component Cpb8 Cap Pol3
+Added Member To Class: ClassName=io Member=Component Rpb8_1 Res3
+Added Member To Class: ClassName=io Member=Component Rpb8_2 Res3
+Added Room: Name=io

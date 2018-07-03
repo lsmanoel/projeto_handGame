@@ -1,0 +1,13 @@
+Added Component: Designator=Cselect(C0805)
+Added Component: Designator=Rselect_1(J1-0603)
+Added Component: Designator=Rselect_2(J1-0603)
+Added Pin To Net: NetName=IO48 Pin=Cselect-1
+Added Pin To Net: NetName=GND Pin=Cselect-2
+Added Pin To Net: NetName=IO48 Pin=Rselect_1-1
+Added Pin To Net: NetName=VCC Pin=Rselect_1-2
+Added Pin To Net: NetName=GND Pin=Rselect_2-1
+Added Pin To Net: NetName=IO48 Pin=Rselect_2-2
+Added Member To Class: ClassName=io Member=Component Cselect Cap Pol3
+Added Member To Class: ClassName=io Member=Component Rselect_1 Res3
+Added Member To Class: ClassName=io Member=Component Rselect_2 Res3
+Added Room: Name=io

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=analog_1-4
+Added Pin To Net: NetName=AD1 Pin=analog_1-5
+Added Pin To Net: NetName=+5V Pin=analog_1-6
+Added Pin To Net: NetName=GND Pin=analog_1-12
+Added Pin To Net: NetName=GND Pin=analog_1-13

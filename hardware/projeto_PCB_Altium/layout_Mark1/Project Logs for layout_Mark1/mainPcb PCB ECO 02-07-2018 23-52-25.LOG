@@ -1,0 +1,130 @@
+Added Component: Designator=C_pb1(RAD-0.3)
+Added Component: Designator=C_pb2(RAD-0.3)
+Added Component: Designator=C_pb3(RAD-0.3)
+Added Component: Designator=C_pb4(RAD-0.3)
+Added Component: Designator=C_pb5(RAD-0.3)
+Added Component: Designator=C_pb6(RAD-0.3)
+Added Component: Designator=C_pb7(RAD-0.3)
+Added Component: Designator=C_pb8(RAD-0.3)
+Added Component: Designator=C_select(RAD-0.3)
+Added Component: Designator=C_start(RAD-0.3)
+Added Component: Designator=R_pb1_1(J1-0603)
+Added Component: Designator=R_pb1_2(J1-0603)
+Added Component: Designator=R_pb2_1(J1-0603)
+Added Component: Designator=R_pb2_2(J1-0603)
+Added Component: Designator=R_pb3_1(J1-0603)
+Added Component: Designator=R_pb3_2(J1-0603)
+Added Component: Designator=R_pb4_1(J1-0603)
+Added Component: Designator=R_pb4_2(J1-0603)
+Added Component: Designator=R_pb5_1(J1-0603)
+Added Component: Designator=R_pb5_2(J1-0603)
+Added Component: Designator=R_pb6_1(J1-0603)
+Added Component: Designator=R_pb6_2(J1-0603)
+Added Component: Designator=R_pb7_1(J1-0603)
+Added Component: Designator=R_pb7_2(J1-0603)
+Added Component: Designator=R_pb8_1(J1-0603)
+Added Component: Designator=R_pb8_2(J1-0603)
+Added Component: Designator=R_select_1(J1-0603)
+Added Component: Designator=R_select_2(J1-0603)
+Added Component: Designator=R_start_1(J1-0603)
+Added Component: Designator=R_start_2(J1-0603)
+Added Pin To Net: NetName=GND Pin=C_pb1-1
+Added Pin To Net: NetName=GND Pin=C_pb2-1
+Added Pin To Net: NetName=GND Pin=C_pb3-1
+Added Pin To Net: NetName=GND Pin=C_pb4-1
+Added Pin To Net: NetName=GND Pin=C_pb5-1
+Added Pin To Net: NetName=GND Pin=C_pb6-1
+Added Pin To Net: NetName=GND Pin=C_pb7-1
+Added Pin To Net: NetName=GND Pin=C_pb8-1
+Added Pin To Net: NetName=GND Pin=C_select-1
+Added Pin To Net: NetName=GND Pin=C_start-1
+Added Pin To Net: NetName=IO53 Pin=R_pb1_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_pb1_1-2
+Added Pin To Net: NetName=IO53 Pin=R_pb1_2-2
+Added Pin To Net: NetName=IO51 Pin=R_pb2_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_pb2_1-2
+Added Pin To Net: NetName=IO51 Pin=R_pb2_2-2
+Added Pin To Net: NetName=IO52 Pin=R_pb3_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_pb3_1-2
+Added Pin To Net: NetName=IO52 Pin=R_pb3_2-2
+Added Pin To Net: NetName=IO50 Pin=R_pb4_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_pb4_1-2
+Added Pin To Net: NetName=IO50 Pin=R_pb4_2-2
+Added Pin To Net: NetName=IO18 Pin=R_pb5_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_pb5_1-2
+Added Pin To Net: NetName=IO18 Pin=R_pb5_2-2
+Added Pin To Net: NetName=IO19 Pin=R_pb6_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_pb6_1-2
+Added Pin To Net: NetName=IO19 Pin=R_pb6_2-2
+Added Pin To Net: NetName=IO20 Pin=R_pb7_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_pb7_1-2
+Added Pin To Net: NetName=IO20 Pin=R_pb7_2-2
+Added Pin To Net: NetName=IO21 Pin=R_pb8_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_pb8_1-2
+Added Pin To Net: NetName=IO21 Pin=R_pb8_2-2
+Added Pin To Net: NetName=IO48 Pin=R_select_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_select_1-2
+Added Pin To Net: NetName=IO48 Pin=R_select_2-2
+Added Pin To Net: NetName=IO22 Pin=R_start_1-1
+Added Pin To Net: NetName=+3V3 Pin=R_start_1-2
+Added Pin To Net: NetName=IO22 Pin=R_start_2-2
+Added Pin To Net: NetName=NetC_pb1_2 Pin=C_pb1-2
+Added Pin To Net: NetName=NetC_pb1_2 Pin=R_pb1_2-1
+Added Net: Name=NetC_pb1_2
+Added Pin To Net: NetName=NetC_pb2_2 Pin=C_pb2-2
+Added Pin To Net: NetName=NetC_pb2_2 Pin=R_pb2_2-1
+Added Net: Name=NetC_pb2_2
+Added Pin To Net: NetName=NetC_pb3_2 Pin=C_pb3-2
+Added Pin To Net: NetName=NetC_pb3_2 Pin=R_pb3_2-1
+Added Net: Name=NetC_pb3_2
+Added Pin To Net: NetName=NetC_pb4_2 Pin=C_pb4-2
+Added Pin To Net: NetName=NetC_pb4_2 Pin=R_pb4_2-1
+Added Net: Name=NetC_pb4_2
+Added Pin To Net: NetName=NetC_pb5_2 Pin=C_pb5-2
+Added Pin To Net: NetName=NetC_pb5_2 Pin=R_pb5_2-1
+Added Net: Name=NetC_pb5_2
+Added Pin To Net: NetName=NetC_pb6_2 Pin=C_pb6-2
+Added Pin To Net: NetName=NetC_pb6_2 Pin=R_pb6_2-1
+Added Net: Name=NetC_pb6_2
+Added Pin To Net: NetName=NetC_pb7_2 Pin=C_pb7-2
+Added Pin To Net: NetName=NetC_pb7_2 Pin=R_pb7_2-1
+Added Net: Name=NetC_pb7_2
+Added Pin To Net: NetName=NetC_pb8_2 Pin=C_pb8-2
+Added Pin To Net: NetName=NetC_pb8_2 Pin=R_pb8_2-1
+Added Net: Name=NetC_pb8_2
+Added Pin To Net: NetName=NetC_select_2 Pin=C_select-2
+Added Pin To Net: NetName=NetC_select_2 Pin=R_select_2-1
+Added Net: Name=NetC_select_2
+Added Pin To Net: NetName=NetC_start_2 Pin=C_start-2
+Added Pin To Net: NetName=NetC_start_2 Pin=R_start_2-1
+Added Net: Name=NetC_start_2
+Added Member To Class: ClassName=io Member=Component C_pb1 Cap
+Added Member To Class: ClassName=io Member=Component C_pb2 Cap
+Added Member To Class: ClassName=io Member=Component C_pb3 Cap
+Added Member To Class: ClassName=io Member=Component C_pb4 Cap
+Added Member To Class: ClassName=io Member=Component C_pb5 Cap
+Added Member To Class: ClassName=io Member=Component C_pb6 Cap
+Added Member To Class: ClassName=io Member=Component C_pb7 Cap
+Added Member To Class: ClassName=io Member=Component C_pb8 Cap
+Added Member To Class: ClassName=io Member=Component C_select Cap
+Added Member To Class: ClassName=io Member=Component C_start Cap
+Added Member To Class: ClassName=io Member=Component R_pb1_1 Res3
+Added Member To Class: ClassName=io Member=Component R_pb1_2 Res3
+Added Member To Class: ClassName=io Member=Component R_pb2_1 Res3
+Added Member To Class: ClassName=io Member=Component R_pb2_2 Res3
+Added Member To Class: ClassName=io Member=Component R_pb3_1 Res3
+Added Member To Class: ClassName=io Member=Component R_pb3_2 Res3
+Added Member To Class: ClassName=io Member=Component R_pb4_1 Res3
+Added Member To Class: ClassName=io Member=Component R_pb4_2 Res3
+Added Member To Class: ClassName=io Member=Component R_pb5_1 Res3
+Added Member To Class: ClassName=io Member=Component R_pb5_2 Res3
+Added Member To Class: ClassName=io Member=Component R_pb6_1 Res3
+Added Member To Class: ClassName=io Member=Component R_pb6_2 Res3
+Added Member To Class: ClassName=io Member=Component R_pb7_1 Res3
+Added Member To Class: ClassName=io Member=Component R_pb7_2 Res3
+Added Member To Class: ClassName=io Member=Component R_pb8_1 Res3
+Added Member To Class: ClassName=io Member=Component R_pb8_2 Res3
+Added Member To Class: ClassName=io Member=Component R_select_1 Res3
+Added Member To Class: ClassName=io Member=Component R_select_2 Res3
+Added Member To Class: ClassName=io Member=Component R_start_1 Res3
+Added Member To Class: ClassName=io Member=Component R_start_2 Res3

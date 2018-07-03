@@ -1,0 +1,12 @@
+Added Component: Designator=Cpb6(C0805)
+Added Component: Designator=Rpb6_1(J1-0603)
+Added Component: Designator=Rpb6_2(J1-0603)
+Added Pin To Net: NetName=IO19 Pin=Cpb6-1
+Added Pin To Net: NetName=GND Pin=Cpb6-2
+Added Pin To Net: NetName=IO19 Pin=Rpb6_1-1
+Added Pin To Net: NetName=VCC Pin=Rpb6_1-2
+Added Pin To Net: NetName=GND Pin=Rpb6_2-1
+Added Pin To Net: NetName=IO19 Pin=Rpb6_2-2
+Added Member To Class: ClassName=io Member=Component Cpb6 Cap Pol3
+Added Member To Class: ClassName=io Member=Component Rpb6_1 Res3
+Added Member To Class: ClassName=io Member=Component Rpb6_2 Res3
